@@ -8,3 +8,29 @@ This project focuses on predicting whether a passenger survived the Titanic disa
 - Evaluate models using classification metrics
 - Explain model predictions using feature importance/SHAP
 - Save the trained model for future predictions
+# Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SHAP
+- Joblib
+# Algorithms Used
+- Logistic Regression
+- Random Forest Classifier
+- Decision Tree Classifier
+# Features
+- Passenger Class (Pclass)
+- Gender (Sex)
+- Age
+- Fare
+- Family Size
+- Cabin Presence
+- Extracted Titles from Names
+# Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
