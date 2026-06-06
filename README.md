@@ -37,6 +37,7 @@ This project focuses on predicting whether a passenger survived the Titanic disa
 
 # OUTPUTS
 <img width="861" height="311" alt="Screenshot 2026-06-05 200905" src="https://github.com/user-attachments/assets/041bed6d-4782-43b8-9787-1419c3bee882" />
+<img width="501" height="393" alt="confusion_matrix" src="https://github.com/user-attachments/assets/c355a570-ee31-47d2-a10d-77fc53b2db6b" />
 
 
 <img width="790" height="490" alt="feature_importance" src="https://github.com/user-attachments/assets/c818af91-9b27-4c50-863c-b3ed17c90017" />
