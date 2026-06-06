@@ -34,3 +34,12 @@ This project focuses on predicting whether a passenger survived the Titanic disa
 - Recall
 - F1-score
 - Confusion Matrix
+
+# OUTPUTS
+<img width="861" height="311" alt="Screenshot 2026-06-05 200905" src="https://github.com/user-attachments/assets/041bed6d-4782-43b8-9787-1419c3bee882" />
+<img width="401" height="680" alt="shap_summary" src="https://github.com/user-attachments/assets/df50bd10-8c32-40e0-8691-052d6073397e" />
+<img width="401" height="680" alt="shap_summary" src="https://github.com/user-attachments/assets/50d67ecf-81da-44a5-ae6c-a1985c7166b7" />
+<img width="790" height="490" alt="feature_importance" src="https://github.com/user-attachments/assets/8ae61694-d3aa-4082-b1df-7845a7ba99c6" />
+
+
+
